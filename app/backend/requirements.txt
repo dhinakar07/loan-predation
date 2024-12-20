@@ -1,0 +1,6 @@
+fastapi
+xgboost
+uvicorn
+scikit-learn==1.4.2
+pandas
+
